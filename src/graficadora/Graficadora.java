@@ -18,5 +18,5 @@ public class Graficadora {
         ventana.setVisible(true);
         // TODO code application logic here
     }
-    
+    //ESTO ES UNA PRUEBA
 }
